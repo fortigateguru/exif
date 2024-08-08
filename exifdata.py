@@ -3,7 +3,7 @@ import streamlit as st
 from PIL.ExifTags import TAGS
 
 
-st.image("lens-158471_640.png")
+st.image("https://raw.githubusercontent.com/fortigateguru/exif/main/lens-158471_640.png")
 st.title("Image Exif Data")
 
 # Open an image file
